@@ -1,0 +1,62 @@
+.form-group {
+    margin-top: 20px; /* Ajusta el valor según lo necesites */
+}
+
+.paises{
+    margin-top: 20px;
+}
+
+.radio-inline-mil{
+ margin-left: 20px;
+}
+
+.numerolib{
+    margin-left: 20px;
+}
+
+
+.pais{
+    margin-top: 20px;
+}
+
+.radio-inline {
+    display: inline-flex; /* Alinea los elementos uno al lado del otro */
+    align-items: center;  /* Centra verticalmente el contenido */
+    margin-right: 10px;   /* Espaciado entre los labels */
+    padding: 5px 10px;    /* Espaciado interno */
+    font-size: 16px;      /* Tamaño de fuente */
+    font-weight: bold;    /* Negrita */
+    background-color: #f0f0f0; /* Fondo claro para el label */
+    border-radius: 20px;  /* Bordes redondeados */
+    cursor: pointer;      /* Cambia el cursor al pasar por encima */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+
+.radio-inline:hover {
+    background-color: #d0d0d0; /* Color de fondo más oscuro al pasar el mouse */
+}
+
+
+.text-center-aca{
+    text-align: center;
+    display: block; /* Asegura que el label ocupe toda la línea */
+}
+
+.FECHA-DE-INGRESO{
+ margin-left: 20px;
+}
+
+.exp{
+    text-align: center;
+    display: block; 
+}
+
+.raw_down{
+    margin-top: 20px;
+
+}
+
+.boton{
+    margin-top: 20px;
+
+}
